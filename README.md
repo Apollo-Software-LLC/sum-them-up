@@ -1,6 +1,6 @@
 # Sum Them Up!
 
-This repository contains a Chrome browser extension that allows users to easily sum up numbers on a web page. With this extension, you can quickly calculate the sum of numbers without the need for manual calculations. Simply install the extension, right-click one of the numbers you want to sum on a web page, and select Sum Them Up! The extension will provide you with the total sum in an instant. It's a convenient tool for anyone who frequently works with numbers on the web. Give it a try and simplify your number-summing tasks today!
+This repository contains a Chrome browser extension that allows users to easily sum up numbers on a web page. With this extension, you can quickly calculate the sum of numbers without the need for manual calculations. Simply install the extension, right-click one of the numbers you want to sum on a web page, and select Sum Them Up! The extension will provide you with the total sum in an instant. It's a convenient tool for anyone who frequently works with numbers on the web, or just needs to file their yearly taxes. Give it a try and simplify your number-summing tasks today!
 
 ## Usage
 
