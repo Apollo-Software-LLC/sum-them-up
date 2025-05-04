@@ -5,7 +5,7 @@ This repository contains a Chrome browser extension that allows users to easily 
 ## Usage
 
 The extension is available for installation on the Chrome Web Store. To install it, simply follow this link:
-https://chromewebstore.google.com/detail/sum-them-up/nagpfglhlmkpidnaapkcgmcggdboanij
+[Chrome Web Store](https://chromewebstore.google.com/detail/sum-them-up/nagpfglhlmkpidnaapkcgmcggdboanij)
 
 ## Contributions
 
